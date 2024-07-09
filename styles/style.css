@@ -144,11 +144,12 @@
     padding: 21px 32px 21px 32px;
     background: rgb(82, 195, 3);
     border:none;
+    cursor: pointer;
 
     
 }
 .btn-watch{
     text-align: center;
     margin-top: 50px;
-    cursor: pointer;
+    
 }
